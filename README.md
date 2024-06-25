@@ -32,6 +32,11 @@ brew install ffmpeg
 # For Ubuntu/Debian
 sudo apt-get install ffmpeg
 ```
+## Information on episodes
+
+All information is derived from https://www.thetvdb.com/series/game-grumps#seasons
+
+If there is not a playlist that is already created by the Game Grumps then I create a unlisted playlist. If you want to use mine then that's fine, if not then you can create your own. All playlists in the completed or to-do are either Game Grumps created or my own.
 
 ## Add to the to-do file
 
